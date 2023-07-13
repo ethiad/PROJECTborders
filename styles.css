@@ -1,0 +1,61 @@
+.white{
+    margin-right: auto;
+    margin-left: auto;
+    width: 400px;
+    background-color: gray;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 4%;
+}
+.green{   
+    margin-right: auto;
+    margin-left: auto;
+    width: 400px;
+    background-color: green;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px; 
+    border-radius: 5%;
+}
+.red{
+    margin-right: auto;
+    margin-left: auto;
+    width: 400px;
+    background-color: red;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 6%;  
+}
+.blue{
+    margin-right: auto;
+    margin-left: auto;
+    width: 400px;
+    background-color: blue;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px; 
+    border-radius: 7%; 
+}
+.black{
+    margin-right: auto;
+    margin-left: auto;
+    width: 400px;
+    background-color: black;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+      color: white;
+      border-radius: 8%;
+}
+body{
+    background-color: lightblue;
+}
+    
+
